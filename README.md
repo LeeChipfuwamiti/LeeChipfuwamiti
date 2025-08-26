@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeeChipfuwamiti
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on C-programming
+- 💞️ I’m looking to collaborate on Python and Java programming
 - 📫 How to reach me . leetanmannnn@gmail.com
 
 <!---
